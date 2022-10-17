@@ -5,7 +5,7 @@ After conmtributing your code please add yourself to the list as: - #Mayank Jain
 Getting Started
 Fork this repo (button on top)
 Clone on your local machine
-git clone https://github.com/abhinav-193/Codes.git
+git clone [https://github.com/mayankwasnothere/codes](https://github.com/mayankwasnothere/codes)
 cd Codes
 Create a new branch
 git checkout -b your-branch-name
