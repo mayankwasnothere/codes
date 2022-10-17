@@ -32,4 +32,7 @@ Contains code of Python,c and c++ master
 
 Contributors:
 
-#Rohan #Suvojit
+Anmol
+Daniel
+Aradhya
+Sachi
